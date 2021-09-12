@@ -14,9 +14,10 @@ Además aquí tienes una lista de las funcionalidades que puedes usar con su res
 
 ## Iniciar sesión o registrarse
 
-- [Crear cuenta o registrarse](auth/signin.md)
-- [Iniciar sesión](auth/login.md)
-- [Iniciar sesión con Google](auth/signin-google.md)
+- [Crear cuenta o registrarse](auth/signin.html)
+- [Iniciar sesión](auth/login.html)
+- [Iniciar sesión con Google](auth/signin-google.html)
+- [Configuración de la cuenta](auth/settings.html)
 
 Hay que tener en cuenta que si no has iniciado sesión, no podrás acceder a las funcionalidades de la aplicación.
 
@@ -24,19 +25,19 @@ Una vez inicias sesión, acederas con uno de los siguientes roles:
 
 ## Coordinador
 
-- [Crear una nueva escuela](coordinator/create-school.md)
-- [Crear un nuevo periodo](coordinator/create-period.md)
-- [Activar/desactivar periodo](coordinator/toggle-period.md)
-- [Activar/desactivar profesores](coordinator/toggle-teachers.md)
+- [Crear una nueva escuela](coordinator/create-school.html)
+- [Crear un nuevo periodo](coordinator/create-period.html)
+- [Activar/desactivar periodo](coordinator/toggle-period.html)
+- [Activar/desactivar profesores](coordinator/toggle-teachers.html)
 
 ## Profesor
 
-- [Agregar escuela](teacher/add-school.md)
-- [Crear un nuevo libro](teacher/create-book.md)
-- [Crear un nueva asignatura](teacher/create-subject.md)
-- [Crear un nuevo boletin](teacher/create-bolletin.md)
-- [Publicar reportes de calificaciones](teacher/publish-report.md)
+- [Agregar escuela](teacher/add-school.html)
+- [Crear un nuevo libro](teacher/create-book.html)
+- [Crear un nueva asignatura](teacher/create-subject.html)
+- [Crear un nuevo boletin](teacher/create-bolletin.html)
+- [Publicar reportes de calificaciones](teacher/publish-report.html)
 
 ## Estudiantes
 
-- [Ver calificaciones de un estudiante](student/student-grades.md)
+- [Ver calificaciones de un estudiante](student/student-grades.html)
