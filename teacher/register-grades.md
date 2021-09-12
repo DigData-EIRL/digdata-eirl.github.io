@@ -1,3 +1,3 @@
-# Crear un nuevo libro
+# Registrar calificaciones
 
 [Volver al inicio](../ 'Volver al inicio')

@@ -1,3 +1,3 @@
-# Crear un nuevo libro
+# Activar/desactivar periodo
 
 [Volver al inicio](../ 'Volver al inicio')

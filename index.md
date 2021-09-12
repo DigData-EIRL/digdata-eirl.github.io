@@ -34,9 +34,12 @@ Una vez inicias sesión, acederas con uno de los siguientes roles:
 
 - [Agregar escuela](teacher/add-school.html)
 - [Crear un nuevo libro](teacher/create-book.html)
+- [Registrar un nuevo alumno](teacher/register-student.html)
 - [Crear un nueva asignatura](teacher/create-subject.html)
 - [Crear un nuevo boletin](teacher/create-bolletin.html)
-- [Publicar reportes de calificaciones](teacher/publish-report.html)
+- [Registrar asistencia](teacher/register-attendance.html)
+- [Registrar calificaciones](teacher/register-grades.html)
+- [Publicar reporte de calificaciones](teacher/publish-report.html)
 
 ## Estudiantes
 

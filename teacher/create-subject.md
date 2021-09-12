@@ -1,3 +1,3 @@
-# Crear un nuevo libro
+# Crear asignatura
 
 [Volver al inicio](../ 'Volver al inicio')

@@ -1,3 +1,3 @@
-# Crear un nuevo libro
+# Registrar un estudiante
 
 [Volver al inicio](../ 'Volver al inicio')
