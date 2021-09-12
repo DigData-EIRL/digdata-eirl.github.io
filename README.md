@@ -18,9 +18,9 @@
 
 - [Introduction](#introduction)
 - [How to Contribute](#how-to-contribute)
-- [Pull requests](#pull-requests)
-- [Commits Style Guide](#commits-style-guide)
-- [Keep your Fork updated](#keep-your-fork-updated)
+	- [Pull requests](#pull-requests)
+	- [Commits Style Guide](#commits-style-guide)
+	- [Keep your Fork updated](#keep-your-fork-updated)
 
 ## Introduction
 
@@ -36,17 +36,17 @@ It is very important to separate new features or improvements into separate feat
 
 This allow us to review and pull in new features or improvements individually.
 
-## Pull requests
+### Pull requests
 
 All pull requests SHOULD adhere to the [Conventional Commits specification](https://conventionalcommits.org/).
 
 Conventional Commits use the [GitHub flow](https://guides.github.com/introduction/flow/) as main versioning workflow.
 
-## Commits Style Guide
+### Commits Style Guide
 
 The contribution guideline is derived from [ConventionalCommits.org](https://www.conventionalcommits.org/)
 
-## Keep your Fork updated
+### Keep your Fork updated
 
 When you have the Fork repository cloned on your PC, the first thing you have to do is create a remote to `DigData-EIRL/digdata-eirl.github.io` using: `git remote add upstream https://github.com/DigData-EIRL/digdata-eirl.github.io.git` (You only have to do this the first time you clone the repository).
 
