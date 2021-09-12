@@ -1,6 +1,6 @@
 # Iniciar sesion con Google
 
-Para evitar el proceso de registro e inicio de sesión, puedes iniciar sesion con Google.
+Para evitar el proceso de [registro](./signin.html) e [inicio de sesión](./login.html), puedes iniciar sesion con Google.
 
 ## 1. Da clic en el boton de color negro que dice "Login/SignUp with Google" o "Inicia con Google".
 
@@ -13,5 +13,7 @@ Para evitar el proceso de registro e inicio de sesión, puedes iniciar sesion co
 ## 3. Listo! Ya estas logeado con Google.
 
 ![](../assets/auth/logged-google-ss.png)
+
+**Nota:** si inicias sesión con Google, no necesitas colocar Nombre, Apellido, Correo electrónico, o Contraseña.
 
 [Volver al inicio](../ 'Volver al inicio')
