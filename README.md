@@ -26,16 +26,16 @@ Una vez inicias sesión, acederas con uno de los siguientes roles:
 
 - [Crear una nueva escuela](coordinator/create-school.md)
 - [Crear un nuevo periodo](coordinator/create-period.md)
-- [Activar/desactivar periodo](coordinator/create-period.md)
-- [Activar/desactivar profesores](coordinator/create-period.md)
+- [Activar/desactivar periodo](coordinator/toggle-period.md)
+- [Activar/desactivar profesores](coordinator/toggle-teachers.md)
 
 ## Profesor
 
-- [Agregar escuela](coordinator/create-period.md)
+- [Agregar escuela](teacher/add-school.md)
 - [Crear un nuevo libro](teacher/create-book.md)
-- [Crear un nueva asignatura](coordinator/create-period.md)
-- [Crear un nuevo boletin](coordinator/create-period.md)
-- [Publicar reportes de calificaciones](coordinator/create-period.md)
+- [Crear un nueva asignatura](teacher/create-subject.md)
+- [Crear un nuevo boletin](teacher/create-bolletin.md)
+- [Publicar reportes de calificaciones](teacher/publish-report.md)
 
 ## Estudiantes
 
