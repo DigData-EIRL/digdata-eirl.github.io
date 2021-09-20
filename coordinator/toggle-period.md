@@ -12,4 +12,8 @@ Al desactivar el periodo, los maestros no podran hacer cambios en las calificaci
 
 ![](../assets/coordinator/period-list.png)
 
+**Sugerencias:**
+
+- [Activar/desactivar profesores.](./toggle-teachers.html)
+
 [Volver al inicio](../ 'Volver al inicio')
